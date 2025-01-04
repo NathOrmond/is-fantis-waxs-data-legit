@@ -1,0 +1,12 @@
+Sample Name,Fabric Type,Treatment,Location,Known Min Yr,Known Max Yr,Aging Factor,Aging Factor Error,2019 Paper,2022 Paper,Inferred Yr
+LII,,,Egypt,-3500,-3000,11.6,0.01,1,1,
+HII,,,Thebes (Egypt),-1000,-720,11.5,0.2,1,0,
+E,,,Egypt,-405,-345,11.4,0.2,1,0,
+NII,,,Engedi (Israel),-350,-230,11.5,0.2,1,0,
+FII,,,Masada (Israel),55,74,10.3,0.2,1,1,
+D,,,Fayuum ( Egypt),544,605,9.3,0.1,1,1,
+DII,,,Jericho (Israel),997,1147,8.5,0.1,1,0,
+A,Flax,bleached,Italy,2000,2000,8.1,0.1,1,1,
+A,Flax,bleached,Italy,2000,2000,8.2,0.1,0,1,
+B,Flax,,Italy,2000,2000,7.56,0.08,1,0,
+TS,,,,,,10,0.2,0,1,
